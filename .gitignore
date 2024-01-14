@@ -53,7 +53,7 @@ librechat.yaml
 
 # Environment
 .npmrc
-.env*
+# .env*
 my.secrets
 !**/.env.example
 !**/.env.test.example
@@ -76,8 +76,8 @@ config.local.ts
 junit.xml
 
 # docker override file
-docker-compose.override.yaml
-docker-compose.override.yml
+# docker-compose.override.yaml
+# docker-compose.override.yml
 
 # meilisearch
 meilisearch

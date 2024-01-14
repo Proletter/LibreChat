@@ -6,12 +6,12 @@
 **/.vscode
 **/node_modules
 
-# # Specific patterns to ignore
-# data-node
-# meili_data*
-# librechat*
-# Dockerfile*
-# docs
+# Specific patterns to ignore
+data-node
+meili_data*
+librechat*
+Dockerfile*
+docs
 
-# # Ignore all hidden files
-# .*
+# Ignore all hidden files
+.*
